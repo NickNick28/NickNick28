@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! I'm Suphanat 👋
 
-<!--
-**NickNick28/NickNick28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Graduate | Aspiring AI Engineer & Backend Developer**
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate from Naresuan University, Thailand, with hands-on experience developing AI-powered applications, backend systems, and machine learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary interests are Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), backend development, and intelligent applications.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, TypeScript, PHP, SQL
+- **AI & Machine Learning:** RAG, LLMs, LangChain, Scikit-learn, Pandas
+- **Backend & Web:** Next.js, React, Node.js, REST APIs, MCP
+- **Databases:** MySQL, Supabase (PostgreSQL), Pinecone
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
+
+### 🚀 Featured Projects
+
+**RAG Chatbot with MCP Server**  
+Document question-answering application using Gemini, LangChain, Pinecone, Supabase, and a Python MCP server.
+
+**Music Recommendation System for Running**  
+Machine learning project for recommending music based on listening preferences and running intensity.
+
+**Vehicle Booking Management System**  
+Web-based booking and management system developed with PHP, JavaScript, and MySQL.
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/NickNick28
+- LinkedIn: Add your LinkedIn profile URL
+- Email: Add your professional contact email
