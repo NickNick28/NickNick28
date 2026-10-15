@@ -1,4 +1,4 @@
-# Hi there! I'm Suphanat 👋
+# Hi there! I'm Supanat !!
 
 **Computer Science Graduate | Aspiring AI Engineer & Backend Developer**
 
@@ -6,7 +6,7 @@ I'm a Computer Science graduate from Naresuan University, Thailand, with hands-o
 
 My primary interests are Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), backend development, and intelligent applications.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Languages:** Python, JavaScript, TypeScript, PHP, SQL
 - **AI & Machine Learning:** RAG, LLMs, LangChain, Scikit-learn, Pandas
@@ -14,7 +14,7 @@ My primary interests are Retrieval-Augmented Generation (RAG), Large Language Mo
 - **Databases:** MySQL, Supabase (PostgreSQL), Pinecone
 - **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **RAG Chatbot with MCP Server**  
 Document question-answering application using Gemini, LangChain, Pinecone, Supabase, and a Python MCP server.
@@ -25,8 +25,8 @@ Machine learning project for recommending music based on listening preferences a
 **Vehicle Booking Management System**  
 Web-based booking and management system developed with PHP, JavaScript, and MySQL.
 
-### 📫 Connect With Me
+### Connect With Me
 
 - GitHub: https://github.com/NickNick28
 - LinkedIn: Add your LinkedIn profile URL
-- Email: Add your professional contact email
+- Email: supanat.mh28@gmail.com
