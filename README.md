@@ -28,5 +28,4 @@ Web-based booking and management system developed with PHP, JavaScript, and MySQ
 ### Connect With Me
 
 - GitHub: https://github.com/NickNick28
-- LinkedIn: Add your LinkedIn profile URL
 - Email: supanat.mh28@gmail.com
